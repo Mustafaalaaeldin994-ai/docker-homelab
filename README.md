@@ -99,5 +99,5 @@ Certifications:
 - AZ-900
 ## Screenshot
 
-![NetBox Dashboard](Screenshot 2026-06-11 214727.png)
+<img src="Screenshot%202026-06-11%20214727.png" width="800">
 GitHub: https://github.com/Mustafaalaaeldin994
